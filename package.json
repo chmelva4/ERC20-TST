@@ -1,0 +1,25 @@
+{
+  "name": "erc20-tst",
+  "version": "1.0.0",
+  "description": "Ethereum ERC-20 Test Standard Token (TST)",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chmelva4/ERC20-TST.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chmelva4/ERC20-TST/issues"
+  },
+  "homepage": "https://github.com/chmelva4/ERC20-TST#readme",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^1.0.37"
+  }
+}
